@@ -3,17 +3,17 @@
 <h2> I'm Koz, a fullstack software engineer on a mission to make the web that little bit more fun 👾🕹</h2>
 
 To me nothing is more motivating than designing an immaginative solution to a problem and nothing is more rewarding than seeing it through to the end.
-I am fiercely collaborative and a voracious consumer of music and coffee.
-
+I am fiercely collaborative and a voracious consumer of music and coffee.\
+\
 - 🎚🎛 I’m currently making my collaborative sequencer into a web based mini-DAW
 - 🤓 I’m currently learning Typescript and web animation with GSAP and Three.js
 - 💬 Ask me about Web Sockets and the Web Audio API
 - ✉ Drop me a line on kgrachev@gmail.com
-- 
-
-
-👨‍💻 Recently my favourite technologies have been: 
-
+\
+\
+👨‍💻 Recently my favourite technologies have been:
+\
+\
 <div style="display:flex">
   <a style="margin:10px" href="ADDRESS_HERE" target="_blank"> <img src="./assets/typescript-plain.svg" alt="git" width="40" height="40"/> </a>
   <a style="margin:10px" href="ADDRESS_HERE" target="_blank"> <img src="./assets/react-original.svg" alt="git" width="40" height="40"/> </a>
