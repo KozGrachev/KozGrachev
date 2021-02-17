@@ -1,6 +1,10 @@
 <h1 align="center"> Hey! Thanks for stopping by 🙋‍♂️</h1>
 
-<h2> I'm Koz, a fullstack software engineer on a mission to make the web that little bit more fun 👾🕹</h2>
+<h2 align="center"> I'm Koz, a fullstack software engineer on a mission to make the web that little bit more fun
+<br/>
+🎶🕹👾
+</h2>
+
 
 <p>To me nothing is more motivating than designing an immaginative solution to a problem and nothing is more rewarding than seeing it through to the end.
 I am fiercely collaborative and a voracious consumer of music and coffee.</p>
@@ -30,7 +34,8 @@ I am fiercely collaborative and a voracious consumer of music and coffee.</p>
   <a style="margin:10px" href="ADDRESS_HERE" target="_blank"> <img src="./assets/mocha-plain.svg" alt="git" width="40" height="40"/> </a>
   <a style="margin:10px" href="ADDRESS_HERE" target="_blank"> <img src="./assets/mongodb-plain-wordmark.svg" alt="git" width="40" height="40"/> </a>
 </div>
-
+<br/>
+<br/>
 <details>
   <summary><b> 👀 Check out my stats! 👇</b></summary>
 <br />
