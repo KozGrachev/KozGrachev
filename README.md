@@ -39,8 +39,8 @@ I am fiercely collaborative and a voracious consumer of music and coffee.</p>
 <details>
   <summary><b> 👀 Check out my stats! 👇</b></summary>
 <br />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bobik808&show_icons=true&theme=vue&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KozGrachev&show_icons=true&theme=vue&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <br />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobik808&theme=vue&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KozGrachev&theme=vue&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 <!-- </div> -->
 </details>
